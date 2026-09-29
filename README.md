@@ -22,10 +22,11 @@ Computer Science graduate focused on building responsive, user-friendly, and ful
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
@@ -50,29 +51,9 @@ Computer Science graduate focused on building responsive, user-friendly, and ful
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoskie066&show_icons=true&hide_border=true&theme=transparent" alt="Yoskie's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoskie066&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="Yoskie's GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Yoskie's Top Languages" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 MindFul
-
-Mood and journaling system with AI-assisted conversations, personal insights, mood tracking, and admin management.
-
-### ♻️ Waste Track
-
-Web-based waste management and monitoring system for recording waste reports, collection activities, and administrative data.
-
-### 📂 File Tracker
-
-Web-based Management Information System for faculty file tracking, file history, task deliverables, and administrative management.
-
-### 💼 Careerly
-
-Career platform featuring resume building, AI-powered interview preparation, job searching, and career-related tools.
 
 ---
 
@@ -85,4 +66,3 @@ Career platform featuring resume building, AI-powered interview preparation, job
 ## 📫 Connect With Me
 
 I'm interested in opportunities where I can continue developing my skills and contribute to real-world software projects.
-
