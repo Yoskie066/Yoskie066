@@ -66,3 +66,6 @@ Computer Science graduate focused on building responsive, user-friendly, and ful
 
 I'm interested in opportunities where I can continue developing my skills and contribute to real-world software projects.
 
+[![Gmail](https://img.shields.io/badge/Gmail-aeinoncris%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aeinoncris@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Einon%20Cris%20Alcantara-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/einon-cris-alcantara-6623b52bb/)
