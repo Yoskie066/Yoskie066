@@ -46,6 +46,15 @@ Computer Science graduate focused on building responsive, user-friendly, and ful
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+![Yoskie's GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
+---
 
 ## 🌐 Portfolio
 
@@ -56,3 +65,4 @@ Computer Science graduate focused on building responsive, user-friendly, and ful
 ## 📫 Connect With Me
 
 I'm interested in opportunities where I can continue developing my skills and contribute to real-world software projects.
+
