@@ -46,19 +46,6 @@ Computer Science graduate focused on building responsive, user-friendly, and ful
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yoskie066/Yoskie066/main/profile/stats.svg" alt="Yoskie's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yoskie066/Yoskie066/main/profile/top-langs.svg" alt="Yoskie's Top Languages" />
-</p>
-
----
 
 ## 🌐 Portfolio
 
