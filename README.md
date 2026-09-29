@@ -51,8 +51,11 @@ Computer Science graduate focused on building responsive, user-friendly, and ful
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Yoskie's GitHub Stats" />
-  <img src="./profile/top-langs.svg" alt="Yoskie's Top Languages" />
+  <img src="https://raw.githubusercontent.com/Yoskie066/Yoskie066/main/profile/stats.svg" alt="Yoskie's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yoskie066/Yoskie066/main/profile/top-langs.svg" alt="Yoskie's Top Languages" />
 </p>
 
 ---
